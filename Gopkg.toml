@@ -75,7 +75,7 @@
 
 [[constraint]]
   name = "github.com/ory/hydra"
-  branch = "1.0.x"
+  version = "1.0.x"
 
 [[constraint]]
   name = "github.com/ory/ladon"
